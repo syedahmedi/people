@@ -1,9 +1,13 @@
- this is syed
-<<<<<<< HEAD
+D
 second commit 
-3rd commit  
-=======
+3rd 
 second commit
 third commit   
+<<<<<<< HEAD
 >>>>>>> d
 foure
+||||||| 2602d03
+>>>>>>> dev
+=======
+four commit 
+>>>>>>> dev
